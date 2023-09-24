@@ -20,13 +20,13 @@ a {
   font-size: 23px;
   font-weight: 400;
   text-decoration: underline;
-  
+
 }
 
-
-
-
-
+a:hover {
+  color: #c3c1db; 
+  transform: scale(1.1); 
+}
 
 
 @font-face {
