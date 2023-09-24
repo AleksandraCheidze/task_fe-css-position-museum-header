@@ -2,7 +2,25 @@ main {
   height: 200vh;
 }
 
-/* твой код */
+.navbar {
+  background-color: rgb(102,102,102);
+  height: 60px;
+  display: flex;
+  align-items:center;
+  justify-content: flex-start;
+  
+
+}
+a {
+ margin: 10px 10px;
+  font-family: "NarrowNews"; 
+  color: #ffffff;
+  font-size: 23px;
+  font-weight: 400;
+  text-decoration: underline;
+  
+}
+
 
 
 
